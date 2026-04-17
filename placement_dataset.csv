@@ -1,0 +1,201 @@
+Student_ID,Name,Branch,CGPA,Aptitude_Score,Communication_Score,Coding_Score,Internship_Count,Project_Count,Backlogs,Placement_Status,Company_Type,Package_Offered
+1,Student_1,CS,8.6,85,88,92,2,3,0,Placed,Product,15.0
+2,Student_2,IT,7.8,75,80,85,1,2,0,Placed,Service,6.5
+3,Student_3,ECE,7.5,70,75,80,1,2,0,Placed,Service,5.5
+4,Student_4,Mech,6.5,60,65,40,0,1,1,Not Placed,None,0.0
+5,Student_5,Civil,6.0,55,60,35,0,1,2,Not Placed,None,0.0
+6,Student_6,CS,9.1,95,92,95,3,4,0,Placed,Product,18.5
+7,Student_7,IT,8.5,88,85,90,2,3,0,Placed,Product,14.0
+8,Student_8,ECE,8.0,82,78,85,1,2,0,Placed,Product,10.0
+9,Student_9,Mech,7.8,75,70,60,1,2,0,Placed,Service,4.5
+10,Student_10,Civil,7.2,70,65,50,0,1,0,Placed,Service,4.0
+11,Student_11,CS,8.2,80,85,88,2,3,0,Placed,Product,12.0
+12,Student_12,IT,7.5,72,78,82,1,2,0,Placed,Service,6.0
+13,Student_13,ECE,7.1,68,72,76,1,2,1,Not Placed,None,0.0
+14,Student_14,Mech,6.8,62,68,45,0,1,1,Not Placed,None,0.0
+15,Student_15,Civil,6.3,58,62,38,0,1,2,Not Placed,None,0.0
+16,Student_16,CS,9.4,98,95,98,3,5,0,Placed,Product,25.0
+17,Student_17,IT,8.8,90,88,92,2,4,0,Placed,Product,16.0
+18,Student_18,ECE,8.3,85,82,88,1,3,0,Placed,Product,11.0
+19,Student_19,Mech,8.0,78,75,65,1,2,0,Placed,Service,5.5
+20,Student_20,Civil,7.6,74,70,55,1,1,0,Placed,Service,4.5
+21,Student_21,CS,8.0,78,85,85,1,3,0,Placed,Service,8.5
+22,Student_22,IT,7.4,70,75,80,1,2,0,Placed,Service,5.5
+23,Student_23,ECE,6.9,65,70,72,0,2,1,Not Placed,None,0.0
+24,Student_24,Mech,6.2,58,62,40,0,1,2,Not Placed,None,0.0
+25,Student_25,Civil,5.8,50,55,30,0,1,3,Not Placed,None,0.0
+26,Student_26,CS,9.0,92,90,94,2,4,0,Placed,Product,17.5
+27,Student_27,IT,8.6,88,86,91,2,3,0,Placed,Product,14.5
+28,Student_28,ECE,8.1,84,80,86,1,2,0,Placed,Product,10.5
+29,Student_29,Mech,7.5,72,68,58,1,2,0,Placed,Service,4.8
+30,Student_30,Civil,7.0,68,64,48,0,1,0,Placed,Service,3.8
+31,Student_31,CS,8.4,82,86,89,2,3,0,Placed,Product,13.5
+32,Student_32,IT,7.7,76,82,84,1,2,0,Placed,Service,7.0
+33,Student_33,ECE,7.3,71,76,78,1,2,0,Placed,Service,6.0
+34,Student_34,Mech,6.6,63,67,42,0,1,1,Not Placed,None,0.0
+35,Student_35,Civil,6.1,56,61,36,0,1,2,Not Placed,None,0.0
+36,Student_36,CS,9.3,96,94,97,3,5,0,Placed,Product,22.0
+37,Student_37,IT,8.7,89,87,93,2,4,0,Placed,Product,15.5
+38,Student_38,ECE,8.2,83,79,87,1,3,0,Placed,Product,11.5
+39,Student_39,Mech,7.9,76,71,62,1,2,0,Placed,Service,5.0
+40,Student_40,Civil,7.4,72,67,52,0,1,0,Placed,Service,4.2
+41,Student_41,CS,8.1,79,87,86,1,3,0,Placed,Product,11.5
+42,Student_42,IT,7.6,73,81,83,1,2,0,Placed,Service,6.5
+43,Student_43,ECE,7.2,69,74,77,1,2,1,Not Placed,None,0.0
+44,Student_44,Mech,6.7,64,69,47,0,1,1,Not Placed,None,0.0
+45,Student_45,Civil,6.2,59,64,41,0,1,2,Not Placed,None,0.0
+46,Student_46,CS,9.2,94,91,96,3,4,0,Placed,Product,19.5
+47,Student_47,IT,8.9,91,89,94,2,4,0,Placed,Product,17.0
+48,Student_48,ECE,8.4,86,83,89,1,3,0,Placed,Product,12.5
+49,Student_49,Mech,8.1,79,74,67,1,2,0,Placed,Service,6.0
+50,Student_50,Civil,7.7,75,71,57,1,1,0,Placed,Service,4.8
+51,Student_51,CS,8.5,86,84,91,2,3,0,Placed,Product,14.0
+52,Student_52,IT,7.9,78,79,86,1,2,0,Placed,Service,7.5
+53,Student_53,ECE,7.4,72,77,79,1,2,0,Placed,Service,6.5
+54,Student_54,Mech,6.9,66,70,50,0,1,1,Not Placed,None,0.0
+55,Student_55,Civil,6.4,61,65,44,0,1,2,Not Placed,None,0.0
+56,Student_56,CS,9.5,97,96,99,3,5,0,Placed,Product,28.0
+57,Student_57,IT,9.0,93,90,95,2,4,0,Placed,Product,18.0
+58,Student_58,ECE,8.7,89,86,92,2,3,0,Placed,Product,13.5
+59,Student_59,Mech,8.4,82,78,72,1,2,0,Placed,Service,6.8
+60,Student_60,Civil,7.9,77,73,61,1,1,0,Placed,Service,5.2
+61,Student_61,CS,8.3,81,89,87,1,3,0,Placed,Product,12.5
+62,Student_62,IT,7.3,71,76,81,1,2,0,Placed,Service,5.8
+63,Student_63,ECE,7.0,67,71,74,0,2,1,Not Placed,None,0.0
+64,Student_64,Mech,6.4,60,64,43,0,1,2,Not Placed,None,0.0
+65,Student_65,Civil,5.9,52,58,32,0,1,3,Not Placed,None,0.0
+66,Student_66,CS,8.9,90,88,93,2,4,0,Placed,Product,16.5
+67,Student_67,IT,8.3,85,84,88,2,3,0,Placed,Product,13.0
+68,Student_68,ECE,7.8,80,75,82,1,2,0,Placed,Service,8.5
+69,Student_69,Mech,7.4,70,66,55,1,2,0,Placed,Service,4.6
+70,Student_70,Civil,6.8,65,62,46,0,1,1,Not Placed,None,0.0
+71,Student_71,CS,8.7,87,90,90,2,3,0,Placed,Product,15.5
+72,Student_72,IT,8.1,82,81,87,1,2,0,Placed,Service,9.0
+73,Student_73,ECE,7.6,74,78,81,1,2,0,Placed,Service,7.5
+74,Student_74,Mech,7.1,68,72,52,0,1,1,Not Placed,None,0.0
+75,Student_75,Civil,6.5,62,66,45,0,1,2,Not Placed,None,0.0
+76,Student_76,CS,9.6,99,98,99,4,5,0,Placed,Product,30.0
+77,Student_77,IT,9.2,95,93,96,3,4,0,Placed,Product,20.0
+78,Student_78,ECE,8.8,91,89,94,2,3,0,Placed,Product,14.5
+79,Student_79,Mech,8.5,84,81,75,2,2,0,Placed,Service,7.5
+80,Student_80,Civil,8.0,80,77,65,1,2,0,Placed,Service,6.0
+81,Student_81,CS,8.2,80,83,86,1,2,1,Placed,Service,8.0
+82,Student_82,IT,7.8,77,80,84,1,2,0,Placed,Service,7.2
+83,Student_83,ECE,7.5,73,79,79,1,2,0,Placed,Service,6.8
+84,Student_84,Mech,7.0,67,71,51,0,1,1,Not Placed,None,0.0
+85,Student_85,Civil,6.7,64,68,48,0,1,1,Not Placed,None,0.0
+86,Student_86,CS,9.1,93,91,95,2,4,0,Placed,Product,18.0
+87,Student_87,IT,8.6,88,85,91,2,3,0,Placed,Product,14.5
+88,Student_88,ECE,8.3,86,83,89,1,3,0,Placed,Product,12.0
+89,Student_89,Mech,7.7,74,69,59,1,2,0,Placed,Service,5.2
+90,Student_90,Civil,7.3,71,66,53,1,1,0,Placed,Service,4.4
+91,Student_91,CS,8.4,83,87,88,2,3,0,Placed,Product,13.0
+92,Student_92,IT,8.0,81,83,86,1,2,0,Placed,Service,8.5
+93,Student_93,ECE,7.7,75,81,82,1,2,0,Placed,Service,7.8
+94,Student_94,Mech,7.2,69,73,54,0,1,1,Not Placed,None,0.0
+95,Student_95,Civil,6.8,65,69,49,0,1,1,Not Placed,None,0.0
+96,Student_96,CS,9.4,96,95,97,3,4,0,Placed,Product,21.0
+97,Student_97,IT,8.9,91,89,93,2,3,0,Placed,Product,16.5
+98,Student_98,ECE,8.5,87,85,90,1,3,0,Placed,Product,13.0
+99,Student_99,Mech,8.2,80,76,68,1,2,0,Placed,Service,6.5
+100,Student_100,Civil,7.8,76,72,59,1,2,0,Placed,Service,5.0
+101,Student_101,CS,8.1,79,85,85,1,2,0,Placed,Service,9.5
+102,Student_102,IT,7.5,74,78,82,1,2,0,Placed,Service,6.2
+103,Student_103,ECE,7.1,68,74,76,0,1,1,Not Placed,None,0.0
+104,Student_104,Mech,6.5,61,65,42,0,1,2,Not Placed,None,0.0
+105,Student_105,Civil,6.0,55,60,35,0,1,2,Not Placed,None,0.0
+106,Student_106,CS,9.0,91,89,94,2,3,0,Placed,Product,17.0
+107,Student_107,IT,8.5,87,85,90,2,3,0,Placed,Product,14.0
+108,Student_108,ECE,8.0,82,78,85,1,2,0,Placed,Product,10.0
+109,Student_109,Mech,7.6,73,68,57,1,2,0,Placed,Service,4.8
+110,Student_110,Civil,7.0,68,64,48,0,1,0,Placed,Service,3.8
+111,Student_111,CS,8.6,86,88,92,2,3,0,Placed,Product,15.5
+112,Student_112,IT,8.2,83,85,88,1,2,0,Placed,Service,9.8
+113,Student_113,ECE,7.8,76,82,83,1,2,0,Placed,Service,8.5
+114,Student_114,Mech,7.3,70,74,55,0,1,1,Not Placed,None,0.0
+115,Student_115,Civil,6.9,66,70,50,0,1,1,Not Placed,None,0.0
+116,Student_116,CS,9.5,97,96,98,3,5,0,Placed,Product,26.0
+117,Student_117,IT,9.0,93,91,95,2,4,0,Placed,Product,18.5
+118,Student_118,ECE,8.6,88,86,91,2,3,0,Placed,Product,13.8
+119,Student_119,Mech,8.3,81,77,70,1,2,0,Placed,Service,7.0
+120,Student_120,Civil,7.9,78,74,62,1,1,0,Placed,Service,5.5
+121,Student_121,CS,8.3,81,87,88,1,3,0,Placed,Product,12.8
+122,Student_122,IT,7.7,76,80,84,1,2,0,Placed,Service,7.5
+123,Student_123,ECE,7.3,71,77,78,1,2,0,Placed,Service,6.2
+124,Student_124,Mech,6.7,64,68,46,0,1,1,Not Placed,None,0.0
+125,Student_125,Civil,6.2,59,63,40,0,1,2,Not Placed,None,0.0
+126,Student_126,CS,9.2,94,92,95,3,4,0,Placed,Product,19.0
+127,Student_127,IT,8.7,89,87,92,2,4,0,Placed,Product,15.5
+128,Student_128,ECE,8.2,84,81,87,1,3,0,Placed,Product,11.2
+129,Student_129,Mech,7.8,75,70,60,1,2,0,Placed,Service,5.0
+130,Student_130,Civil,7.4,72,67,52,0,1,0,Placed,Service,4.2
+131,Student_131,CS,8.8,88,91,93,2,3,0,Placed,Product,16.5
+132,Student_132,IT,8.4,85,87,90,2,3,0,Placed,Product,13.5
+133,Student_133,ECE,7.9,78,83,84,1,2,0,Placed,Service,9.0
+134,Student_134,Mech,7.4,71,75,56,1,1,0,Placed,Service,4.5
+135,Student_135,Civil,7.0,67,71,51,0,1,1,Not Placed,None,0.0
+136,Student_136,CS,9.7,99,98,99,4,5,0,Placed,Product,32.0
+137,Student_137,IT,9.3,96,94,97,3,4,0,Placed,Product,21.5
+138,Student_138,ECE,8.9,92,90,95,2,3,0,Placed,Product,15.0
+139,Student_139,Mech,8.6,85,82,77,2,2,0,Placed,Service,8.0
+140,Student_140,Civil,8.1,81,78,67,1,2,0,Placed,Service,6.5
+141,Student_141,CS,8.5,84,86,89,1,3,0,Placed,Product,13.5
+142,Student_142,IT,8.0,81,83,86,1,2,0,Placed,Service,8.8
+143,Student_143,ECE,7.6,75,80,81,1,2,0,Placed,Service,7.2
+144,Student_144,Mech,7.1,68,72,52,0,1,1,Not Placed,None,0.0
+145,Student_145,Civil,6.6,63,67,46,0,1,2,Not Placed,None,0.0
+146,Student_146,CS,9.3,95,93,96,3,4,0,Placed,Product,20.0
+147,Student_147,IT,8.8,90,88,93,2,4,0,Placed,Product,16.5
+148,Student_148,ECE,8.4,86,83,89,1,3,0,Placed,Product,12.5
+149,Student_149,Mech,8.0,77,72,64,1,2,0,Placed,Service,5.8
+150,Student_150,Civil,7.5,73,68,54,1,1,0,Placed,Service,4.5
+151,Student_151,CS,8.7,86,89,91,2,3,0,Placed,Product,15.0
+152,Student_152,IT,8.3,84,86,89,2,3,0,Placed,Product,13.0
+153,Student_153,ECE,7.8,77,82,83,1,2,0,Placed,Service,8.2
+154,Student_154,Mech,7.3,70,74,55,0,1,1,Not Placed,None,0.0
+155,Student_155,Civil,6.9,66,70,50,0,1,1,Not Placed,None,0.0
+156,Student_156,CS,9.4,96,95,97,3,4,0,Placed,Product,22.0
+157,Student_157,IT,8.9,92,90,94,2,3,0,Placed,Product,17.5
+158,Student_158,ECE,8.5,88,85,90,1,3,0,Placed,Product,13.0
+159,Student_159,Mech,8.2,80,76,68,1,2,0,Placed,Service,6.5
+160,Student_160,Civil,7.7,75,71,58,1,2,0,Placed,Service,5.0
+161,Student_161,CS,8.6,85,88,90,2,3,0,Placed,Product,14.5
+162,Student_162,IT,8.1,82,84,87,1,2,0,Placed,Service,9.5
+163,Student_163,ECE,7.6,74,79,80,1,2,0,Placed,Service,7.0
+164,Student_164,Mech,7.1,68,72,52,0,1,1,Not Placed,None,0.0
+165,Student_165,Civil,6.7,64,68,48,0,1,1,Not Placed,None,0.0
+166,Student_166,CS,9.1,93,91,95,2,4,0,Placed,Product,18.0
+167,Student_167,IT,8.6,88,86,91,2,3,0,Placed,Product,14.5
+168,Student_168,ECE,8.2,84,80,86,1,2,0,Placed,Product,10.8
+169,Student_169,Mech,7.8,75,70,60,1,2,0,Placed,Service,4.8
+170,Student_170,Civil,7.3,71,66,53,1,1,0,Placed,Service,4.2
+171,Student_171,CS,8.9,89,92,94,2,3,0,Placed,Product,17.0
+172,Student_172,IT,8.4,85,87,90,2,3,0,Placed,Product,13.5
+173,Student_173,ECE,7.9,78,83,84,1,2,0,Placed,Service,9.2
+174,Student_174,Mech,7.4,71,75,56,1,1,0,Placed,Service,4.5
+175,Student_175,Civil,7.0,67,71,51,0,1,1,Not Placed,None,0.0
+176,Student_176,CS,9.8,99,99,99,4,5,0,Placed,Product,35.0
+177,Student_177,IT,9.4,97,95,98,3,4,0,Placed,Product,23.5
+178,Student_178,ECE,9.0,93,91,96,2,3,0,Placed,Product,16.0
+179,Student_179,Mech,8.7,86,83,78,2,2,0,Placed,Service,8.5
+180,Student_180,Civil,8.2,82,79,68,1,2,0,Placed,Service,6.8
+181,Student_181,CS,8.8,87,90,92,2,3,0,Placed,Product,16.0
+182,Student_182,IT,8.3,84,86,89,1,2,0,Placed,Service,10.5
+183,Student_183,ECE,7.8,76,81,82,1,2,0,Placed,Service,8.0
+184,Student_184,Mech,7.3,70,74,55,0,1,1,Not Placed,None,0.0
+185,Student_185,Civil,6.9,66,70,50,0,1,1,Not Placed,None,0.0
+186,Student_186,CS,9.6,98,97,98,3,5,0,Placed,Product,27.5
+187,Student_187,IT,9.1,94,92,96,2,4,0,Placed,Product,19.0
+188,Student_188,ECE,8.7,89,86,92,2,3,0,Placed,Product,14.5
+189,Student_189,Mech,8.4,82,78,72,1,2,0,Placed,Service,7.2
+190,Student_190,Civil,8.0,79,75,64,1,1,0,Placed,Service,5.8
+191,Student_191,CS,8.5,84,87,89,1,3,0,Placed,Product,13.8
+192,Student_192,IT,8.0,81,83,86,1,2,0,Placed,Service,8.8
+193,Student_193,ECE,7.6,75,80,81,1,2,0,Placed,Service,7.4
+194,Student_194,Mech,7.1,68,72,52,0,1,1,Not Placed,None,0.0
+195,Student_195,Civil,6.6,63,67,46,0,1,2,Not Placed,None,0.0
+196,Student_196,CS,9.2,94,92,95,3,4,0,Placed,Product,19.5
+197,Student_197,IT,8.7,89,87,92,2,4,0,Placed,Product,16.0
+198,Student_198,ECE,8.3,85,82,88,1,3,0,Placed,Product,11.8
+199,Student_199,Mech,7.9,76,71,62,1,2,0,Placed,Service,5.5
+200,Student_200,Civil,7.4,72,67,52,0,1,0,Placed,Service,4.0
